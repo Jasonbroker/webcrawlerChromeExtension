@@ -1,17 +1,23 @@
 {
   "name": "撸金所",
   "description": "“稳盈-变现通”产品购买工具",
+  "manifest_version": 2,
   "version": "1.0",
   "permissions": [
     "activeTab",
     "https://list.lu.com/list/bianxiantong*",
     "https://promo.lu.com/transfer/v1/status_error.html"
   ],
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "pop.html"
+  },
+
   "content_scripts": [
     {
       "matches": ["https://list.lu.com/list/bianxiantong*"],
       "js": ["jquery-1.11.3.min.js", "bianxiantong.js"]
     }
-  ],
-  "manifest_version": 2
+  ]
 }
