@@ -1,5 +1,6 @@
 {
   "name": "撸金所",
+  "options_page": "options.html",
   "description": "“稳盈-变现通”产品购买工具",
   "manifest_version": 2,
   "version": "1.0",
