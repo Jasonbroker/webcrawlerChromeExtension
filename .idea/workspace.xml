@@ -21,8 +21,8 @@
       <file leaf-file-name="bianxiantong.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/extension/lufax/bianxiantong.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="136">
+              <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
               <folding>
                 <marker date="1446460568000" expanded="true" signature="2969:2985" ph="..." />
                 <marker date="1446460568000" expanded="true" signature="4543:4558" ph="..." />
@@ -254,12 +254,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1492606412662</updated>
-      <workItem from="1492606414580" duration="5656000" />
+      <workItem from="1492606414580" duration="6843000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5656000" />
+    <option name="totallyTimeSpent" value="6843000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -272,7 +272,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="28" y="100" width="1473" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17854719" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -375,8 +374,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/extension/lufax/bianxiantong.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="136">
+          <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
           <folding>
             <marker date="1446460568000" expanded="true" signature="2969:2985" ph="..." />
             <marker date="1446460568000" expanded="true" signature="4543:4558" ph="..." />
